@@ -218,9 +218,6 @@ footer{
   }
   
 ul li {
-
-
-
 margin-left:40px;
 width:130px;
 
@@ -232,7 +229,6 @@ tr td:first-child {
 	font-family:Garamond;
 	color: #fff;
 	font-weight:bold;
-
 }
 
 
@@ -243,29 +239,13 @@ tr td {
 	font-size: 18px;
 }
 
-
-
-li{
-
-}
-
 table {
-padding-left: 20px;
-margin-left:35px;
+padding-left: 10px;
+margin-left:0px;
 transition:translateY(-30%);
-width:500px;
+width:460px;
 height: 10px;
 
-
 }	
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
 }
